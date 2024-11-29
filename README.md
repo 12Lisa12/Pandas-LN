@@ -1,3 +1,2 @@
 # Pandas-LN
-Python Leistungsnachweis Lisa und Michelle
-Hallihallo
+Python Leistungsnachweis Lisa, Kirisha und Michelle
